@@ -4,7 +4,7 @@ Plugin Name: Woocommerce Ajax cart Count Sortcode
 Plugin URI: https://www.facebook.com/webbninja01
 Description: Woocommerce cart total via ajax shortcode.
 Author: Web Ninja
-Version: 1.1
+Version: 1.2
 */
 
 
